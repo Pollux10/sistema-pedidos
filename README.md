@@ -18,4 +18,4 @@ Sistema simples de gerenciamento de pedidos via terminal, desenvolvido em Python
 ## ▶️ Como executar
 
 ```bash
-python main.py
+python sistema-pedidos.py
